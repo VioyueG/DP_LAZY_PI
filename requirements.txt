@@ -1,0 +1,10 @@
+###### Requirements without Version Specifiers ######
+torch
+numpy
+pandas
+argparse
+
+###### Requirements with Version Specifiers ######
+opacus >= 1.3.0            # Minimum version 1.3.0
+pytorch_lightning >= 1.8.6
+
